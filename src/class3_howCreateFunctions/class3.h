@@ -9,5 +9,6 @@ int IfStatement_OR(int num1, int num2, int num3);
 int IfStatement_Equals(int num1, int num2);
 int IfStatement_Diff(int num1, int num2);
 double calculatorIntermediate();
+void switchStatement(char grade);
 
 #endif

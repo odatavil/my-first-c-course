@@ -5,7 +5,6 @@
 
 
 int main() {
-    double result = calculatorIntermediate();
-    printf("Result do main: %.2lf\n", result);
+    switchStatement('A');
     return 0;
 }
