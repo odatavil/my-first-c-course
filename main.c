@@ -9,7 +9,7 @@
 
 int main() {
 
-    guessingGame(1);
+    guessingGame(10, 3);
 
     return 0;
 }
