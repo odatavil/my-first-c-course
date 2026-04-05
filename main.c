@@ -13,7 +13,7 @@
 
 int main() {
 
-    printPointers(30, 3.5, 'A');
+    dereferencingPointers(30, 3.5, 'A');
 
     return 0;
 }
