@@ -9,11 +9,12 @@
 #include "src/class6_2D_Arrays/class6.h"
 #include "src/class7_memoryAdresses/class7.h"
 #include "src/class8_pointers/class8.h"
+#include "src/class9_aboutFiles/class9.h"
 
 
 int main() {
 
-    dereferencingPointers(30, 3.5, 'A');
+    readFile();
 
     return 0;
 }
